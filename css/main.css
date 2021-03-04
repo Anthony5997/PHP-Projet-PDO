@@ -1,0 +1,21 @@
+.formSize{
+    width: 50%;
+}
+
+.inputForm{
+    margin: 20px;
+}
+
+.card-info{
+    width: 50%;
+    margin: 20px;
+    padding: 45px;
+    background-color: green;
+    border-radius: 10px;
+    color:aliceblue;
+}
+
+.img-profil{
+    width: 150px;
+    height: 150px;
+}
